@@ -1,2 +1,3 @@
-# my-linux-settings
- sh utilitarios para meu desktop linux
+# 🐧 my-linux-settings
+
+ sh utilitários para meu desktop linux.
