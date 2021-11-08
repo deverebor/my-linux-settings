@@ -1,8 +1,8 @@
 # 🐧 My Linux Settings
 
- Por faciliade(e um pouco de preguiça) criei alguns scripts para automatização do setup de um novo ambiente.
+ Por facilidade (e um pouco de preguiça) criei alguns scripts para automatização do setup de um novo ambiente.
  
- Fiquem avontade para contribuir com melhorias e novos scripts.
+ Fiquem avontade para contribuir com melhorias e novos scripts!
  
  ## Scripts
  
